@@ -36,4 +36,5 @@ Clara loved her bookshelf, and all the books she kept on it. She hadn't opened h
 - GitHub for Beginners
 - Harry Potter and the Philosopher's Stone
 - Beginner ASCII Art
+- The Art of Science of Stargazing
 - ...
