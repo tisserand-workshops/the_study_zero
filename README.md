@@ -6,3 +6,4 @@ Welcome to the literary mesh workshop !
 
 To learn more about the background and context of this project, head to [the workshop repository on GitHub](https://github.com/tisserand-workshops/ournetworks-2020-the-study).
 
+Store your story in the `story` folder, if you want to play by the rules.
