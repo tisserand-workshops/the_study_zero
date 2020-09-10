@@ -1,0 +1,3 @@
+# story
+
+Welcome to the story folder! What will it contain...
