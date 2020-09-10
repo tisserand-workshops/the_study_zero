@@ -1,3 +1,9 @@
+THIS REPOSITORY IS ARCHIVED.
+
+You may start your own literary mesh if you want though :)
+
+===========================================================
+
 # Our networks 2020
 
 ## The Study
